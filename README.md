@@ -11,6 +11,9 @@ Current price is retrieved by socket from Upbit, which is a live current price.
 
 All the transaction information and chart data are saved in Redis.
 
+## Flow Chart
+![Alt text](https://firebasestorage.googleapis.com/v0/b/oskj-5ed7f.appspot.com/o/trading_bot_flow_cahrt.jpg?alt=media&token=94df46eb-88b3-42f3-ae2e-c988b2038d20 "image")
+
 ## Instruction
 ### Install Requirements.txt
 ```bash
